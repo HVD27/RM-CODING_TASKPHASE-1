@@ -1,0 +1,21 @@
+Progress report 1.5
+	Name: Harshit
+	Subsytem: Coding
+	Reporting progress: 7/12/20 
+	Progress:
+	Bubble sort:
+		Completed with project uploaded.
+	Matrix multiplication.
+		Completed with project uploaded. 
+	Matrix column and row zero
+		Completed with project uploaded.
+	Hill number:
+		Still thinking about it.
+	Ammicable number:
+		Completed with project uploaded.
+	Dec to Hexa, Binary and Octa
+		Completed with project uploaded.
+	  Issues:
+		      Implementing hill number, given considerable time.
+	Note:
+		Figured github properly and created the repository.
